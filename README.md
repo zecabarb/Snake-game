@@ -15,6 +15,6 @@ The Reset option clears the player map as well as the text file that was used as
 
 The Quit option allows you to end the game.
 
-We added additional dependencies to complete the Game with sound files. The library used was Winmm.lib.
+Additional dependencies were added to complete the Game with sound files. The library used was Winmm.lib.
 
 The controbutors to this game are myself and: Tiago S., Rosalina M., João S. and Lionel P.
